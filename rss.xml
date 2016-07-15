@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Naybrr]]></title>
         <description><![CDATA[Naybrr]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/naybrr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 16:52:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jul 2016 16:52:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/naybrr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Countdown.]]></title>
             <description><![CDATA[<article><h1>Countdown.</h1><p>Coming soon. August 2016. NAYBRR. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e1a78139a318e3e729ff41c65f80e95c/croprotate.jpg?cropheight=1942&cropwidth=2074&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Faf93cb03-3a14-431a-a2bc-c1805aede570.jpg&x=0&y=0"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/af93cb03-3a14-431a-a2bc-c1805aede570.jpg</link>
             <guid isPermaLink="false">dc4e150f-a4b5-486d-b020-064b5a357865</guid>
-            <pubDate>Fri, 15 Jul 2016 16:52:06 GMT</pubDate>
+            <pubDate>Fri, 15 Jul 2016 16:52:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
