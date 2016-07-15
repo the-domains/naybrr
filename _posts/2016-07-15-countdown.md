@@ -1,13 +1,13 @@
 ---
 description: 'Coming soon. August 2016. NAYBRR. '
-dateModified: '2016-07-15T16:52:04.418Z'
-datePublished: '2016-07-15T16:52:06.114Z'
+dateModified: '2016-07-15T16:52:10.271Z'
+datePublished: '2016-07-15T16:52:10.852Z'
 title: Countdown.
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/af93cb03-3a14-431a-a2bc-c1805aede570.jpg
-starred: false
 sourcePath: _posts/2016-07-15-countdown.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
